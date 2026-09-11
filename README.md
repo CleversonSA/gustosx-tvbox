@@ -50,9 +50,9 @@ Família de processador|link|
 rk322x|[Baixar Multitool](https://drive.google.com/file/d/1oOsnCT2eQ9Eh-naPkx7MDz-Qs3E13jnt/view?usp=drive_link)|
 
 **Imagem GustoSX** 
-Família de processador|Versão|Link|
-----------------------|------|----|
-rk322x|0.10.3|[gustosx-tvbox-rk322x-0.10.3.xz](https://drive.google.com/file/d/1CIWhepbNGkcVSEhOS3o7Eh3fyE3szlm4/view?usp=drive_link)|
+Família de processador|Versão|Data de lançamento|Link|
+----------------------|------|------|----|
+rk322x|0.10.3|11/09/2026|[gustosx-tvbox-rk322x-0.10.3.xz](https://drive.google.com/file/d/1CIWhepbNGkcVSEhOS3o7Eh3fyE3szlm4/view?usp=drive_link)|
 
 
 ---
