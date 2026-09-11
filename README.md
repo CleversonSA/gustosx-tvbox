@@ -47,12 +47,12 @@ Por esse motivo, o fato de uma TV Box possuir o processador RK3228A, RK3228B ou 
 **Multitool** 
 Família de processador|link|
 ----------------------|----|
-rk322x|[Baixar Multitool](LINK_DO_MULTITOOL)|
+rk322x|[Baixar Multitool](https://drive.google.com/file/d/1oOsnCT2eQ9Eh-naPkx7MDz-Qs3E13jnt/view?usp=drive_link)|
 
 **Imagem GustoSX** 
 Família de processador|Versão|Link|
 ----------------------|------|----|
-rk322x|0.10.4|[gustosx-tvbox-rk322x-0.10.4.gz](LINK_DA_IMAGEM_GUSTOSX)|
+rk322x|0.10.3|[gustosx-tvbox-rk322x-0.10.3.xz][(LINK_DA_IMAGEM_GUSTOSX)](https://drive.google.com/file/d/1CIWhepbNGkcVSEhOS3o7Eh3fyE3szlm4/view?usp=drive_link)|
 
 
 ---
@@ -97,7 +97,7 @@ A estrutura esperada será semelhante a:
 ```text
 Cartão Multitool
 └── images/
-    └── gustosx-tvbox-rk322x-x.xx.x.gz
+    └── gustosx-tvbox-rk322x-x.x.x.xz
 ```
 
 
@@ -260,7 +260,7 @@ Divirtam-se, **fudebas**!
 
 # CHANGELOG
 
-## [0.10.4] - Em desenvolvimento
+## [0.10.3] - Em desenvolvimento
 
 - Port inicial do GustoSX para TV Boxes da série RK322x.
 - Base Armbian com Debian 13 Trixie.
