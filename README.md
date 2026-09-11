@@ -45,12 +45,14 @@ Por esse motivo, o fato de uma TV Box possuir o processador RK3228A, RK3228B ou 
 ### Downloads
 
 **Multitool** 
-Família de processador|link
-rk322x|[Baixar Multitool](LINK_DO_MULTITOOL)
+Família de processador|link|
+----------------------|----|
+rk322x|[Baixar Multitool](LINK_DO_MULTITOOL)|
 
 **Imagem GustoSX** 
-Família de processador|Versão|Link
-rk322x|0.10.4|[gustosx-tvbox-rk322x-0.10.4.gz](LINK_DA_IMAGEM_GUSTOSX)
+Família de processador|Versão|Link|
+----------------------|------|----|
+rk322x|0.10.4|[gustosx-tvbox-rk322x-0.10.4.gz](LINK_DA_IMAGEM_GUSTOSX)|
 
 
 ---
