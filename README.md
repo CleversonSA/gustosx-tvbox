@@ -90,7 +90,7 @@ Os backups ficam dentro da pasta BACKUP do volume MULTITOOL, ao ler o cartão no
 
 Baixe a imagem do GustoSX pelo link disponibilizado acima.
 
-Coloque o arquivo na pasta `images` da partição de dados do cartão do Multitool, conforme as instruções da versão utilizada. Se necessário, descompacte o arquivo antes de copiá-lo.
+Coloque o arquivo na pasta `images` da partição de dados do cartão do Multitool, conforme as instruções da versão utilizada. 
 
 A estrutura esperada será semelhante a:
 
