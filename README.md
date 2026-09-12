@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O **GustoSX para TVBox ** é uma distribuição Linux baseada no Armbian com um único objetivo: dar uma antiga e defasada TV Box um "sabor" MSX dedicado.
+O **GustoSX para TVBox** é uma distribuição Linux baseada no Armbian com um único objetivo: dar uma antiga e defasada TV Box um "sabor" MSX dedicado.
 
 O projeto é baseado em outro que criei para processadores x86 32bits [que pode ser conferido aqui](https://github.com/CleversonSA/gustosx)
 
