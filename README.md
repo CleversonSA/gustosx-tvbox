@@ -166,7 +166,7 @@ O projeto não tem como objetivo distribuir ROMs proprietárias de máquinas ou 
 
 - 1. Certifique-se que o pendrive ou cartão SD esteja formatado com FAT32, exFAT costuma a dar problemas na montagem automática nessa disto.
 
-- 2. Na pasta raiz do pendrive crie a pasta **systemroms** 
+- 2. Na pasta raiz do pendrive crie as pastas **systemroms** e **msxhd**
 
 - 3. Baixe as ROMs das máquinas e NEXTOR necessárias e coloque elas dentro da pasta **systemroms**. NÃO COLOQUE AS ROMS DE JOGOS NESTA PASTA!
 
